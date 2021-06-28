@@ -1,4 +1,4 @@
-**Arquiteto de Software formado pela PUC Minas com certificação em Disciplina Agile pela Disciplined Agile Consortium
+** Arquiteto de Software formado pela PUC Minas com certificação em Disciplina Agile pela Disciplined Agile Consortium
 
 **Linkedin:** https://www.linkedin.com/in/tayronmiranda/
 
