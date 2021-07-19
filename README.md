@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=tayron)
+
 **Arquiteto de Software formado pela PUC Minas com certificação em Disciplina Agile pela Disciplined Agile Consortium**
 
 ---
