@@ -10,7 +10,7 @@
 
 ---
 
-<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=tayron&show_icons=true&theme=cobalt"/> <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayron&layout=compact&theme=cobalt"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=tayron&show_icons=true&theme=cobalt"/> <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayron&langs_count=5&theme=radical&layout=compact&hide=roff,makefile"/>
 
 ---
 
